@@ -1,0 +1,12 @@
+body{
+    background-color: pink;
+}
+
+header {
+    background-color: yellow;
+}
+
+nav {
+    color: green;
+    text-decoration: none;
+}
